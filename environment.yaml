@@ -1,0 +1,13 @@
+name: diffusion
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+dependencies:
+  - matplotlib>=3.8.2
+  - scipy>=1.11.4
+  - python=3.10.12
+  - pip
+  - pip:
+    - torch
+    - torchvision
