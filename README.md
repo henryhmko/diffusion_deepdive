@@ -11,7 +11,15 @@
 ## Single-Image Generation
 All Training done on 1 x RTX 2080
 
-(insert oski and vlsb dino pic)
+### Oski (32 x 32)
+<p align="center">
+  <img src="insert link" width="640"/>
+</p>
+
+### VLSB Santa Dino (64 x 64)
+<p align="center">
+  <img src="insert link" width="640"/>
+</p>
 
 ## Single-Class Generation
 (insert result pics)
