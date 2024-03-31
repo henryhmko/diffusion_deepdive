@@ -17,6 +17,7 @@ This is to verify that diffusion does work by having the entire dataset be a sin
 </p>
 
 ### VLSB Santa Dino (64 x 64)
+Rare creature only to be spotted during christmas seasons in the VLSB building
 <p align="center">
   <img src="https://github.com/henryhmko/project_cerulean/blob/main/single_class/result_imgs/vlsb_santa_dino_result.png" width="940"/>
 </p>
