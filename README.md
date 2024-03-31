@@ -9,7 +9,7 @@
   4. Latent Diffusion (CIFAR 10)
 
 ## Single-Image Generation
-All Training done on 1 x RTX 2080
+This is to verify that diffusion does work by having the entire dataset be a single image. More of a sanity check before moving to more complex tasks. All Training done on 1 x RTX 2080
 
 ### Oski (32 x 32)
 <p align="center">
