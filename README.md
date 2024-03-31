@@ -1,4 +1,4 @@
-# Project Cerulean
+# Diffusion Deepdive
 ### Exploration-based project aimed at understanding how diffusion models work by implementing various diffusion models.
 
 
